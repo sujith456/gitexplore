@@ -1,3 +1,5 @@
 I add a important function
 function2
 function3
+newfunction
+newerfunction
