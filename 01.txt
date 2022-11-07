@@ -3,3 +3,4 @@ function2
 function3
 
 addeding a chart
+added a code for conflict
